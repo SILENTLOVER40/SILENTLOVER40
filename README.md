@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋, I'M SILENT LOVER⁴³²</h1>
+<h1 align="center">HI DEAR WELCOME I'M SILENT LOVER⁴³²</h1>
 <h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM PAKISTAN 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentlover40&label=Profile%20views&color=0e75b6&style=flat" alt="silentlover40" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’M CURRENTLY WORKING ON [SILENT-SOBX-MD ♥️](https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
 
-- 🌱 I’M CURRENTLY LEARNING **JAWA SCRIPT, C++, HTML, ETC**
+- 🌱 I’M CURRENTLY LEARNING **JAWA SCRIPT, C++, HTML, PYTHON, ETC**
 
 - 👯 I’M LOOKING TO COLLABORATE ON [SILENT-SOBX-MD-V2](https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
 
